@@ -44,7 +44,7 @@ dependencies:
   # Media
   image_picker: ^1.1.2
   image_cropper: ^8.0.2
-  record: ^5.1.2
+  record: ^6.2.0
   audioplayers: ^6.1.0
 
   # In-App Purchase
