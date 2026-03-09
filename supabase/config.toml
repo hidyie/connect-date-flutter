@@ -1,0 +1,10 @@
+project_id = "zbznttjpcdkbmkgpxoqg"
+
+[functions.ai-compatibility]
+verify_jwt = false
+
+[functions.ai-icebreaker]
+verify_jwt = false
+
+[functions.send-push]
+verify_jwt = false

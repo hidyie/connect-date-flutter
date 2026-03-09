@@ -1,0 +1,1 @@
+ALTER TABLE public.emergency_contacts ADD COLUMN telegram_chat_id text DEFAULT NULL;
